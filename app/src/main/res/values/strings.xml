@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Action Bar</string>
+    <string name="button_value">Roll</string>
+
+    <string name="info_text">Info</string>
+    <string name="settings_text">Settings</string>
+    <string name="dark_mode_text">Dark Mode</string>
+
+    <string-array name="dark_mode">
+        <item>Default</item>
+        <item>Enable</item>
+        <item>Disable</item>
+    </string-array>
+
+</resources>
